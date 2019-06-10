@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4b7cfb9-91b5-4fbe-83c2-1771ed7b2ce4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/servicecloud-api/target/" />
+    <ignored path="$PROJECT_DIR$/servicecloud-provider-dept-8001/target/" />
+    <ignored path="$PROJECT_DIR$/servicecloud-dept-80/target/" />
+    <ignored path="$PROJECT_DIR$/servicecloud-consume-dept-80/target/" />
+    <ignored path="$PROJECT_DIR$/servicecloud-euraka-7001/target/" />
+    <ignored path="$PROJECT_DIR$/servicecloud-euraka-7002/target/" />
+    <ignored path="$PROJECT_DIR$/servicecloud-consume-dept-8081/target/" />
+    <ignored path="$PROJECT_DIR$/servicecloud-provider-dept-8002/target/" />
+    <ignored path="$PROJECT_DIR$/servicecloud-consume-dept-feign/target/" />
+    <ignored path="$PROJECT_DIR$/servicecloud-provider-dept-hystrix-8001/target/" />
+    <ignored path="$PROJECT_DIR$/servicecloud-consumer-hystrix-dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/servicecloud-consumer-dept-feign/target/" />
+    <ignored path="$PROJECT_DIR$/servicecloud-zull-gateway-9527/target/" />
+    <ignored path="$PROJECT_DIR$/servicecloud-config-3344/target/" />
+    <ignored path="$PROJECT_DIR$/servicecloud-config-client-3355/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cloudDB1@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cloudDB1@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cloudDB1@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="cloudDB1: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cloudDB2@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cloudDB2@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cloudDB2@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="cloudDB2: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/servicecloud-provider-dept-8001/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>api</find>
+      <find>servercloud-</find>
+      <find>processHystrix_Get</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/servicecloud-euraka-7002/pom.xml" />
+        <option value="$PROJECT_DIR$/servicecloud-provider-dept-8001/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/servicecloud-euraka-7001/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/servicecloud-euraka-7002/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/servicecloud-euraka-7002/src/main/java/com/jsp/springcloud/servicecloudeuraka7002/ServicecloudEuraka7002Application.java" />
+        <option value="$PROJECT_DIR$/servicecloud-consume-dept-80/pom.xml" />
+        <option value="$PROJECT_DIR$/servicecloud-consume-dept-80/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/servicecloud-consume-dept-8081/pom.xml" />
+        <option value="$PROJECT_DIR$/servicecloud-consume-dept-8081/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/servicecloud-consume-dept-8081/src/main/java/com/jsp/springcloud/servicecloudconsumedept8081/ServicecloudConsumeDept8081Application.java" />
+        <option value="$PROJECT_DIR$/servicecloud-consume-dept-8081/src/main/java/com/jsp/springcloud/servicecloudconsumedept8081/configuation/ConfigBean.java" />
+        <option value="$PROJECT_DIR$/servicecloud-consume-dept-8081/src/main/java/com/jsp/springcloud/servicecloudconsumedept8081/controller/DeptController_Consumer.java" />
+        <option value="$PROJECT_DIR$/servicecloud-provider-dept-8002/pom.xml" />
+        <option value="$PROJECT_DIR$/servicecloud-provider-dept-8002/src/main/resources/application.properties" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/3d70713a-f549-483d-8490-1b52695ca8cb/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/servicecloud-provider-dept-8002/src/main/java/com/jsp/springcloud/servicecloudproviderdept8002/ServicecloudProviderDept8002Application.java" />
+        <option value="$PROJECT_DIR$/servicecloud-provider-dept-8002/src/main/java/com/jsp/springcloud/servicecloudproviderdept8002/controller/DeptController.java" />
+        <option value="$PROJECT_DIR$/servicecloud-provider-dept-8002/src/main/java/com/jsp/springcloud/servicecloudproviderdept8002/service/DeptService.java" />
+        <option value="$PROJECT_DIR$/servicecloud-consume-dept-80/src/main/java/com/jsp/springcloud/servicecloudconsumedept80/configuation/ConfigBean.java" />
+        <option value="$PROJECT_DIR$/servicecloud-consume-dept-80/src/main/java/com/jsp/springcloud/servicecloudconsumedept80/ServicecloudConsumeDept80Application.java" />
+        <option value="$PROJECT_DIR$/servicecloud-consume-dept-80/src/main/java/com/jsp/myrule/RandomRule_self.java" />
+        <option value="$PROJECT_DIR$/servicecloud-consume-dept-80/src/main/java/com/jsp/myrule/MySelfRule.java" />
+        <option value="$PROJECT_DIR$/servicecloud-consume-dept-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/servicecloud-api/pom.xml" />
+        <option value="$PROJECT_DIR$/servicecloud-consume-dept-feign/src/main/java/com/jsp/springcloud/servicecloudconsumedeptfeign/controller/DeptController_Consumer.java" />
+        <option value="$PROJECT_DIR$/servicecloud-consume-dept-feign/src/main/java/com/jsp/springcloud/servicecloudconsumedeptfeign/ServicecloudConsumeDeptFeignApplication.java" />
+        <option value="$PROJECT_DIR$/servicecloud-provider-dept-hystrix-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/servicecloud-provider-dept-hystrix-8001/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/servicecloud-provider-dept-hystrix-8001/src/main/java/com/jsp/springcloud/servicecloudproviderdepthystrix8001/controller/service/DeptService.java" />
+        <option value="$PROJECT_DIR$/servicecloud-provider-dept-hystrix-8001/src/main/java/com/jsp/springcloud/servicecloudproviderdepthystrix8001/service/DeptService.java" />
+        <option value="$PROJECT_DIR$/servicecloud-api/src/main/java/com/jsp/springcloud/servicecloudapi/service/DeptClientServiceFallbackFactory.java" />
+        <option value="$PROJECT_DIR$/servicecloud-api/src/main/java/com/jsp/springcloud/servicecloudapi/service/DeptClientService.java" />
+        <option value="$PROJECT_DIR$/servicecloud-consume-dept-feign/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/servicecloud-provider-dept-hystrix-8001/src/main/java/com/jsp/springcloud/servicecloudproviderdepthystrix8001/controller/DeptController.java" />
+        <option value="$PROJECT_DIR$/servicecloud-consumer-hystrix-dashboard/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/servicecloud-consumer-hystrix-dashboard/src/main/java/com/jsp/springcloud/servicecloudconsumerhystrixdashboard/ServicecloudConsumerHystrixDashboardApplication.java" />
+        <option value="$PROJECT_DIR$/servicecloud-consumer-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/servicecloud-provider-dept-hystrix-8001/src/main/java/com/jsp/springcloud/servicecloudproviderdepthystrix8001/ServicecloudProviderDeptHystrix8001Application.java" />
+        <option value="$PROJECT_DIR$/servicecloud-zull-gateway-9527/src/main/java/com/jsp/springcloud/servicecloudzullgateway9527/ServicecloudZullGateway9527Application.java" />
+        <option value="$PROJECT_DIR$/servicecloud-zull-gateway-9527/pom.xml" />
+        <option value="$PROJECT_DIR$/servicecloud-zull-gateway-9527/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/servicecloud-config-3344/src/main/java/com/jsp/springcloud/servicecloudconfig3344/ServicecloudConfig3344Application.java" />
+        <option value="$PROJECT_DIR$/servicecloud-config-3344/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/servicecloud-config-3344/pom.xml" />
+        <option value="$PROJECT_DIR$/servicecloud-config-client-3355/pom.xml" />
+        <option value="$PROJECT_DIR$/servicecloud-config-client-3355/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/servicecloud-config-client-3355/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/servicecloud-config-client-3355/src/main/java/com/jsp/springcloud/servicecloudconfigclient3355/config/COnfigClientRest.java" />
+        <option value="$PROJECT_DIR$/servicecloud-config-client-3355/src/main/java/com/jsp/springcloud/servicecloudconfigclient3355/controller/ConfigClientRest.java" />
+        <option value="$PROJECT_DIR$/servicecloud-consume-dept-80/src/main/java/com/jsp/springcloud/servicecloudconsumedept80/controller/DeptController_Consumer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="servicecloud-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="servicecloud-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="960" />
+    <option name="y" value="28" />
+    <option name="width" value="960" />
+    <option name="height" value="1052" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="servicecloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="servicecloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="servicecloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="servicecloud" type="462c0819:PsiDirectoryNode" />
+              <item name="servicecloud-provider-dept-8001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="servicecloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="servicecloud" type="462c0819:PsiDirectoryNode" />
+              <item name="servicecloud-provider-dept-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="servicecloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="servicecloud" type="462c0819:PsiDirectoryNode" />
+              <item name="servicecloud-provider-dept-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="servicecloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="servicecloud" type="462c0819:PsiDirectoryNode" />
+              <item name="servicecloud-provider-dept-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/servicecloud-provider-dept-hystrix-8001/src/main/java/com/jsp/springcloud/servicecloudproviderdepthystrix8001" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jsp.springcloud.servicecloudproviderdepthystrix8001.controller" />
+      <recent name="com.jsp.springcloud.servicecloudconsumedept8081.controller" />
+      <recent name="com.jsp.springcloud.servicecloudconsumedept8081.configuation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/servicecloud-provider-dept-hystrix-8001/src/main/java/com/jsp/springcloud/servicecloudproviderdepthystrix8001" />
+      <recent name="$PROJECT_DIR$/servicecloud-provider-dept-hystrix-8001/src/main/java/com/jsp/springcloud/servicecloudproviderdepthystrix8001/controller" />
+      <recent name="$PROJECT_DIR$/servicecloud-consume-dept-feign/src/main/java" />
+      <recent name="$PROJECT_DIR$/servicecloud-provider-dept-8002/src/main/java/com/jsp/springcloud/servicecloudproviderdept8002" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.5322581" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServicecloudProviderDeptHystrix8001Application">
+    <configuration name="servicecloud [install]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="servicecloud-api [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/servicecloud-api" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="servicecloud-api [install]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/servicecloud-api" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="servicecloud-provider-dept-8001 [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/servicecloud-provider-dept-8001" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="servicecloud-provider-dept-8001 [install]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/servicecloud-provider-dept-8001" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="ServicecloudApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="servicecloud-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jsp.springcloud.servicecloudapi.ServicecloudApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicecloudConfig3344Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="servicecloud-config-3344" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jsp.springcloud.servicecloudconfig3344.ServicecloudConfig3344Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicecloudConfigClient3355Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="servicecloud-config-client-3355" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jsp.springcloud.servicecloudconfigclient3355.ServicecloudConfigClient3355Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicecloudConsumeDept80Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="servicecloud-consume-dept-80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jsp.springcloud.servicecloudconsumedept80.ServicecloudConsumeDept80Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicecloudConsumeDeptFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="servicecloud-consume-dept-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jsp.springcloud.servicecloudconsumedeptfeign.ServicecloudConsumeDeptFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicecloudConsumerHystrixDashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="servicecloud-consumer-hystrix-dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jsp.springcloud.servicecloudconsumerhystrixdashboard.ServicecloudConsumerHystrixDashboardApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicecloudEuraka7001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="servicecloud-euraka-7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jsp.springcloud.servicecloudeuraka7001.ServicecloudEuraka7001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicecloudEuraka7002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="servicecloud-euraka-7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jsp.springcloud.servicecloudeuraka7002.ServicecloudEuraka7002Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicecloudProviderDept8001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="servicecloud-provider-dept-8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jsp.springcloud.servicecloudproviderdept8001.ServicecloudProviderDept8001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicecloudProviderDept8002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="servicecloud-provider-dept-8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jsp.springcloud.servicecloudproviderdept8002.ServicecloudProviderDept8002Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicecloudProviderDeptHystrix8001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="servicecloud-provider-dept-hystrix-8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jsp.springcloud.servicecloudproviderdepthystrix8001.ServicecloudProviderDeptHystrix8001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicecloudZullGateway9527Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="servicecloud-zull-gateway-9527" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jsp.springcloud.servicecloudzullgateway9527.ServicecloudZullGateway9527Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.servicecloud-api [install]" />
+        <item itemvalue="Maven.servicecloud-api [clean]" />
+        <item itemvalue="Maven.servicecloud-provider-dept-8001 [install]" />
+        <item itemvalue="Maven.servicecloud-provider-dept-8001 [clean]" />
+        <item itemvalue="Maven.servicecloud [install]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4b7cfb9-91b5-4fbe-83c2-1771ed7b2ce4" name="Default Changelist" comment="" />
+      <created>1559040622771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559040622771</updated>
+      <workItem from="1559040624084" duration="5117000" />
+      <workItem from="1559046229551" duration="8760000" />
+      <workItem from="1559056838420" duration="5221000" />
+      <workItem from="1559114806371" duration="2155000" />
+      <workItem from="1559127932187" duration="7342000" />
+      <workItem from="1559135817801" duration="5363000" />
+      <workItem from="1559205043727" duration="2058000" />
+      <workItem from="1559214975889" duration="2086000" />
+      <workItem from="1559218169355" duration="6836000" />
+      <workItem from="1559298186548" duration="12402000" />
+      <workItem from="1559371277957" duration="4873000" />
+      <workItem from="1559570564213" duration="5509000" />
+      <workItem from="1559609392474" duration="18000" />
+      <workItem from="1559661020332" duration="86000" />
+      <workItem from="1559697480844" duration="10000" />
+      <workItem from="1559740247234" duration="297000" />
+      <workItem from="1559741122217" duration="18000" />
+      <workItem from="1560057532094" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="68179000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.31169528" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.28121483" />
+      <window_info anchor="bottom" id="Messages" order="1" />
+      <window_info anchor="bottom" id="Spring" order="2" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" weight="0.3295838" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.8593926" />
+      <window_info anchor="bottom" id="Java Enterprise" order="6" weight="0.3295838" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.344207" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" weight="0.3295838" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.6722973" />
+      <window_info anchor="bottom" id="SQL Generator" order="16" weight="0.55793023" />
+      <window_info anchor="bottom" id="Version Control" order="17" weight="0.32995495" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.67477876" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32832617" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3503219" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.28121483" />
+      <window_info anchor="bottom" id="Messages" order="1" />
+      <window_info anchor="bottom" id="Spring" order="2" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" weight="0.3295838" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.8593926" />
+      <window_info anchor="bottom" id="Java Enterprise" order="6" weight="0.3295838" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.344207" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" weight="0.3295838" />
+      <window_info anchor="bottom" id="Run Dashboard" order="16" weight="0.68503934" />
+      <window_info anchor="bottom" id="SQL Generator" order="17" weight="0.55793023" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.67477876" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32832617" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0.jar!/com/netflix/loadbalancer/RandomRule.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="12" column="56" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/jdk1.8.0_161/src.zip!/java/util/concurrent/ThreadLocalRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-consume-dept-80/src/main/java/com/jsp/springcloud/servicecloudconsumedept80/ServicecloudConsumeDept80Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-consume-dept-80/src/main/java/com/jsp/myrule/RandomRule_self.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" column="43" lean-forward="true" selection-end-line="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#initWithNiwsConfig#0;class#RandomRule_self#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-consume-dept-80/src/main/java/com/jsp/myrule/MySelfRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" lean-forward="true" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-euraka-7001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-euraka-7001/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="43" lean-forward="true" selection-end-line="11" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hs_err_pid20883.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-consume-dept-feign/src/main/java/jsp/myrule/MySelfRule.java" />
+    <entry file="file://$PROJECT_DIR$/servicecloud-consume-dept-80/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="21" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-api/src/main/java/com/jsp/springcloud/servicecloudapi/service/DeptC.java" />
+    <entry file="file://$PROJECT_DIR$/servicecloud-provider-dept-hystrix-8001/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-provider-dept-hystrix-8001/src/main/java/com/jsp/springcloud/servicecloudproviderdepthystrix8001/controller/dao/DeptDao.java" />
+    <entry file="file://$PROJECT_DIR$/servicecloud-provider-dept-hystrix-8001/src/main/java/com/jsp/springcloud/servicecloudproviderdepthystrix8001/controller/service/DeptService.java" />
+    <entry file="file://$PROJECT_DIR$/servicecloud-provider-dept-hystrix-8001/src/main/java/com/jsp/springcloud/servicecloudproviderdepthystrix8001/dao/DeptDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-consume-dept-feign/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-provider-dept-hystrix-8001/src/main/java/com/jsp/springcloud/servicecloudproviderdepthystrix8001/service/DeptService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="20" selection-start-line="13" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-provider-dept-hystrix-8001/src/main/java/com/jsp/springcloud/servicecloudproviderdepthystrix8001/controller/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="69" column="5" lean-forward="true" selection-start-line="66" selection-start-column="4" selection-end-line="69" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-consumer-dept-feign/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/servicecloud-consume-dept-feign/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-consume-dept-feign/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-api/src/main/java/com/jsp/springcloud/servicecloudapi/ServicecloudApiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-consume-dept-feign/src/main/java/com/jsp/springcloud/servicecloudconsumedeptfeign/controller/DeptController_Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-api/src/main/java/com/jsp/springcloud/servicecloudapi/service/DeptClientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-api/src/main/java/com/jsp/springcloud/servicecloudapi/service/DeptClientServiceFallbackFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-consumer-hystrix-dashboard/src/main/java/com/jsp/springcloud/servicecloudconsumerhystrixdashboard/ServicecloudConsumerHystrixDashboardApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-consumer-hystrix-dashboard/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-consume-dept-feign/src/main/java/com/jsp/springcloud/servicecloudconsumedeptfeign/ServicecloudConsumeDeptFeignApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-consumer-hystrix-dashboard/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-provider-dept-hystrix-8001/src/main/java/com/jsp/springcloud/servicecloudproviderdepthystrix8001/ServicecloudProviderDeptHystrix8001Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-provider-dept-hystrix-8001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="51" column="21" selection-start-line="18" selection-start-column="8" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-zull-gateway-9527/src/main/java/com/jsp/springcloud/servicecloudzullgateway9527/ServicecloudZullGateway9527Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.1.1.RELEASE/spring-cloud-netflix-zuul-2.1.1.RELEASE.jar!/org/springframework/cloud/netflix/zuul/EnableZuulProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-zull-gateway-9527/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" selection-start-line="18" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-zull-gateway-9527/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="45" column="21" selection-start-line="18" selection-start-column="8" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-config-3344/src/main/java/com/jsp/springcloud/servicecloudconfig3344/ServicecloudConfig3344Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-config-3344/mvnw">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-provider-dept-8001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-config-3344/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="46" column="21" selection-start-line="19" selection-start-column="8" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-config-3344/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-config-client-3355/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-config-client-3355/src/main/java/com/jsp/springcloud/servicecloudconfigclient3355/config/COnfigClientRest.java" />
+    <entry file="file://$PROJECT_DIR$/servicecloud-config-client-3355/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-config-client-3355/src/main/java/com/jsp/springcloud/servicecloudconfigclient3355/controller/ConfigClientRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-config-client-3355/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-config-client-3355/src/main/java/com/jsp/springcloud/servicecloudconfigclient3355/ServicecloudConfigClient3355Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-consume-dept-80/src/main/java/com/jsp/springcloud/servicecloudconsumedept80/controller/DeptController_Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-consume-dept-80/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-consume-dept-80/src/main/java/com/jsp/springcloud/servicecloudconsumedept80/configuation/ConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicecloud-provider-dept-8001/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android API 28 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>servicecloud-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
